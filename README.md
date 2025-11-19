@@ -4,7 +4,7 @@
 <br/>
 
 
-# Hi 👋, I'm <Minhaj Islam>  
+# Hi 👋, I'm Minhaj Islam  
 ### 🔭 I build things with JavaScript, React, and Node.js
 
 ---
