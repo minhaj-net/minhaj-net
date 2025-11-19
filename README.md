@@ -1,3 +1,9 @@
+<!--- banner --->
+<img align="center" src="https://i.ibb.co.com/20TVdr06/banner2.png">
+
+<br/>
+
+
 # Hi 👋, I'm <Minhaj Islam>  
 ### 🔭 I build things with JavaScript, React, and Node.js
 
