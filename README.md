@@ -38,7 +38,7 @@ Currently, I'm focused on expanding my knowledge in **Express.js** and **MongoDB
 
 ## 🌐 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/minhaj-islam-dev/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome)](https://yourportfolio.com/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](infoglb.net@gmail.com)
