@@ -37,7 +37,7 @@
 I'm a full-stack developer focused on the **JavaScript ecosystem** — from crafting responsive UIs to designing scalable backend APIs. I enjoy turning complex problems into clean, maintainable solutions.
 
 - 🔭 Currently building production-grade apps with **Next.js**, **Node.js**, and **MongoDB**
-- 🌱 Deepening expertise in **TypeScript**, **Prisma**, and **real-time systems with Socket.io**
+- 🌱 Deepening expertise in **TypeScript**, **MySQL**, and **real-time systems with Socket.io**
 - 💡 Interested in clean architecture, DX improvements, and open-source collaboration
 - � Ask me about **React**, **Next.js**, **Node.js**, or anything JavaScript
 - �📫 Reach me at **infoglb.net@gmail.com**
@@ -58,16 +58,20 @@ I'm a full-stack developer focused on the **JavaScript ecosystem** — from craf
 ### Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
-### Auth & Cloud
+### Auth & Services
 ![NextAuth.js](https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+
+### Deployment
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
 
 ### Tools & Workflow
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -83,7 +87,7 @@ I'm a full-stack developer focused on the **JavaScript ecosystem** — from craf
 |--------|-------------|-------|
 | 🔨 **Real-time Chat App** | Full-featured chat with rooms & notifications | Next.js, Socket.io, MongoDB |
 | 🌐 **Portfolio V2** | Personal portfolio with project showcase | Next.js, Tailwind, Framer Motion |
-| 🛒 **E-commerce Platform** | Multi-vendor marketplace with payments | Next.js, Prisma, PostgreSQL |
+| 🛒 **E-commerce Platform** | Multi-vendor marketplace with payments | Next.js, MySQL, Node.js |
 
 > 📌 *More projects available on my [GitHub profile](https://github.com/minhaj-net)*
 
