@@ -8,20 +8,22 @@
   <h1>Hi, I'm Minhaj Islam 👋</h1>
   <h3>Full Stack Developer · JavaScript Ecosystem · Building things that scale</h3>
 
-  <a href="https://www.linkedin.com/in/minhaj-islam-dev/">
+  <br/>
+
+  <a href="https://www.linkedin.com/in/minhaj-net/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:infoglb.net@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://wa.me/YOUR_NUMBER_HERE">
+  <a href="https://wa.me/8801870567854">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://drive.google.com/file/d/17YAGu_k-8vyW-exydJrCNlEwTq55eO2u/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
   </a>
   <a href="YOUR_PORTFOLIO_LINK_HERE">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="YOUR_RESUME_LINK_HERE">
-    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
   </a>
 
   <br/><br/>
@@ -37,7 +39,8 @@ I'm a full-stack developer focused on the **JavaScript ecosystem** — from craf
 - 🔭 Currently building production-grade apps with **Next.js**, **Node.js**, and **MongoDB**
 - 🌱 Deepening expertise in **TypeScript**, **Prisma**, and **real-time systems with Socket.io**
 - 💡 Interested in clean architecture, DX improvements, and open-source collaboration
-- 📫 Reach me at **infoglb.net@gmail.com**
+- � Ask me about **React**, **Next.js**, **Node.js**, or anything JavaScript
+- �📫 Reach me at **infoglb.net@gmail.com**
 
 ---
 
@@ -70,15 +73,34 @@ I'm a full-stack developer focused on the **JavaScript ecosystem** — from craf
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Kiro](https://img.shields.io/badge/Kiro-1C1C1C?style=for-the-badge&logo=cursor&logoColor=white)
 ![Chrome DevTools](https://img.shields.io/badge/DevTools-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
+
+---
+
+## 🚀 What I'm Working On
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| 🔨 **Real-time Chat App** | Full-featured chat with rooms & notifications | Next.js, Socket.io, MongoDB |
+| 🌐 **Portfolio V2** | Personal portfolio with project showcase | Next.js, Tailwind, Framer Motion |
+| 🛒 **E-commerce Platform** | Multi-vendor marketplace with payments | Next.js, Prisma, PostgreSQL |
+
+> 📌 *More projects available on my [GitHub profile](https://github.com/minhaj-net)*
+
+---
+
+## 📈 Coding Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=minhaj-net&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=minhaj-net&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=minhaj-net&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhaj-net&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
@@ -88,7 +110,7 @@ I'm a full-stack developer focused on the **JavaScript ecosystem** — from craf
 
 ---
 
-## 🐍 Contribution Graph
+## 🐍 Contribution Snake
 
 <div align="center">
   <picture>
@@ -96,4 +118,10 @@ I'm a full-stack developer focused on the **JavaScript ecosystem** — from craf
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/minhaj-net/minhaj-net/output/github-contribution-grid-snake.svg">
     <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/minhaj-net/minhaj-net/output/github-contribution-grid-snake.svg"/>
   </picture>
+</div>
+
+---
+
+<div align="center">
+  <i>Open to exciting opportunities — let's build something great together.</i>
 </div>
