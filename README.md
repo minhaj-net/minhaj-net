@@ -1,71 +1,99 @@
-<img align="center" src="https://i.ibb.co.com/20TVdr06/banner2.png">
+<div align="center">
+  <img src="https://i.ibb.co.com/20TVdr06/banner2.png" alt="Minhaj Islam - Full Stack Developer" width="100%"/>
+</div>
 
 <br/>
 
-# Hi 👋, I'm Minhaj Islam  
-### 🚀 I build things with JavaScript, React, and Node.js
+<div align="center">
+  <h1>Hi, I'm Minhaj Islam 👋</h1>
+  <h3>Full Stack Developer · JavaScript Ecosystem · Building things that scale</h3>
+
+  <a href="https://www.linkedin.com/in/minhaj-islam-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:infoglb.net@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/YOUR_NUMBER_HERE">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="YOUR_PORTFOLIO_LINK_HERE">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="YOUR_RESUME_LINK_HERE">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
+  </a>
+
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=minhaj-net&style=flat-square&color=blue" alt="Profile Views"/>
+</div>
 
 ---
 
-## 👨‍💻 About Me  
-I'm a passionate full-stack developer who enjoys building modern, high-performance web applications. I love working with **JavaScript**, **React**, and **Node.js**, and I'm always exploring new tools to improve my workflow.  
-Currently, I'm focused on expanding my knowledge in **Next.js** and **Socket.io** while working on exciting real-world projects. Feel free to reach out if you want to talk about **web development**, open-source, or cool tech ideas!
+## 👨‍💻 About Me
+
+I'm a full-stack developer focused on the **JavaScript ecosystem** — from crafting responsive UIs to designing scalable backend APIs. I enjoy turning complex problems into clean, maintainable solutions.
+
+- 🔭 Currently building production-grade apps with **Next.js**, **Node.js**, and **MongoDB**
+- 🌱 Deepening expertise in **TypeScript**, **Prisma**, and **real-time systems with Socket.io**
+- 💡 Interested in clean architecture, DX improvements, and open-source collaboration
+- 📫 Reach me at **infoglb.net@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack
 
-### **Frontend**
+### Frontend
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-### **Backend & Auth**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-![NextAuth](https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=next.js)
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+
+### Auth & Cloud
+![NextAuth.js](https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.dot-io)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-### **Tools**
-![Cursor](https://img.shields.io/badge/Cursor-1C1C1C?style=for-the-badge&logo=cursor)
-![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-
----
-
-## 🌐 Connect With Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/minhaj-islam-dev/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/YOUR_NUMBER_HERE)
-[![Resume](https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=googledrive&logoColor=white)](YOUR_RESUME_LINK_HERE)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome)](https://yourportfolio.com/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:infoglb.net@gmail.com)
+### Tools & Workflow
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Kiro](https://img.shields.io/badge/Kiro-1C1C1C?style=for-the-badge&logo=cursor&logoColor=white)
+![Chrome DevTools](https://img.shields.io/badge/DevTools-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
 
 ---
 
+## 📊 GitHub Stats
 
-## 🐍 Snake Contribution Map
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=minhaj-net&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhaj-net&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/minhaj-net/minhaj-net/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/minhaj-net/minhaj-net/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/minhaj-net/minhaj-net/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
-## 📊 GitHub Stats  
-
-| GitHub Stats | Most Used Languages |
-| :---: | :---: |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=minhaj-net&show_icons=true&theme=dark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhaj-net&layout=compact&theme=dark) |
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minhaj-net&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=minhaj-net&style=flat-square)
+## 🐍 Contribution Graph
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/minhaj-net/minhaj-net/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/minhaj-net/minhaj-net/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/minhaj-net/minhaj-net/output/github-contribution-grid-snake.svg"/>
+  </picture>
+</div>
